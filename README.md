@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá, eu sou Felipe Carvalho
+> IT Lover ❤️💻
 
-<!--
-**Zodh/Zodh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Atualmente sou estagiário na [HST Card Technology](https://www.hst.com.br/)
 
-Here are some ideas to get you started:
+### Estudante de Sistemas de Informação na UNIP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas linguagens favoritas são: C#, Python e Java.
+> ### Mas também gosto de JavaScript, PHP e C.
+> #### As vezes inicio alguns projetos com HTML, CSS e Bootstrap para aprender mais.
+
+* Neste perfil vou incluir arquivos que possam sinalizar minha evolução como 
+desenvolvedor enquanto curso o Bacharel em Sistemas de Informação.
