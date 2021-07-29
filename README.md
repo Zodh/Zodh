@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Carvalho</h1>
 <h3 align="center">A passionate backend developer from Brazil. 20 years old, IT Lover ❤️.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zodh" alt="zodh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zodh" alt="zodh" /></a> </p>
 
 - 🔭 I’m currently working on [HST Card Technology](https://www.hst.com.br/pt-br/)
 
