@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Carvalho</h1>
 <h3 align="center">A passionate backend developer from Brazil. 20 years old, IT Lover ❤️.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zodh" alt="zodh" /></a> </p>
+<h3 align="left">Contacts:</h3>
+<div>
+  <a href = "mailto:felipe.carvalho.bs.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-carvalho-bds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 - 🔭 I’m currently working on [HST Card Technology](https://www.hst.com.br/pt-br/)
 
