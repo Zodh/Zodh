@@ -1,5 +1,7 @@
 <img align="center" src="https://c.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif" width="100%" height="258px"/>
 
+---'
+
 <h1 align="center">Hi 👋, I'm Felipe Carvalho</h1>
 <h3 align="center">A passionate backend developer from Brazil. 20 years old, IT Lover ❤️.</h3>
 
