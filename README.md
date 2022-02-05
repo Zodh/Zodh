@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Felipe Carvalho</h1>
-<h3 align="center">A passionate backend developer from Brazil. 20 years old, IT Lover ❤️.</h3>
+<h3 align="center">A passionate backend developer from Brazil. 21 years old, IT Lover ❤️.</h3>
 
 - 🔭 I’m currently working on [HST Card Technology](https://www.hst.com.br/pt-br/)
 
