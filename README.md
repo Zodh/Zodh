@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Carvalho</h1>
 <h3 align="center">A passionate backend developer from Brazil. 21 years old, IT Lover ❤️.</h3>
 
-- 🔭 I’m currently working on [HST Card Technology](https://www.hst.com.br/pt-br/)
+- 🔭 I’m currently working on [Objective](https://www.objective.com.br/)
 
 - 💬 Ask me about **Java, SpringBoot and PostgreSQL** - let's talk about Patterns, SOLID and architecture :)
 
