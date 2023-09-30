@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Carvalho</h1>
 <h3 align="center">A passionate backend developer from Brazil. 22 years old, IT Lover ❤️.</h3>
 
-- 🔭 I’m currently working on [Sodexo](https://br.sodexo.com/home.html)
+- 🔭 I’m currently working at [Sodexo](https://br.sodexo.com/home.html)
 
 - 💬 let's talk about Java, Spring, Patterns, SOLID, Code design and Architecture :)
 
