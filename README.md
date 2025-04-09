@@ -4,7 +4,7 @@ I'm a Software Engineer from Brazil, currently working at [Pluxee (Sodexo)](www.
 
 - I am studying for a postgraduate degree in software architecture;
 - I have a bachelor's degree in information systems;
-- I have a technical diploma in computers.
+- I have a professional diploma in IT.
 
 Usually i work with Java and Spring, and i like to talk about Design Patterns, SOLID, System Design and Software Architecture. 
 
